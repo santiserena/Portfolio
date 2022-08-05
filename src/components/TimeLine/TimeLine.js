@@ -48,9 +48,7 @@ const Timeline = () => {
       <br/>
       <SectionText>
       I am a full stack web developer graduated from Henry, an intensive
-        bootcamp in Argentina. Currently I am in a job search, with expectations
-        of joining a team, where I could contribute and continue learning new
-        skills and technologies. I am very curious and I really enjoy teamwork
+        bootcamp in Argentina. I am very curious and I really enjoy teamwork
         too. I am attracted to new challenges and I have a lot of persistence
         and dedication to achieve my goals.
       </SectionText>

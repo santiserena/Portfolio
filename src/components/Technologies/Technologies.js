@@ -9,7 +9,7 @@ const Technologies = () =>  (
     <SectionDivider divider />
     <SectionTitle>Technologies</SectionTitle>
     <SectionText>
-      I've worked  from client to server, with many technologies in the web development world.
+      I've worked  from client to server, with many technologies in the web development world,  some of them are:
     </SectionText>
     <List>
 
