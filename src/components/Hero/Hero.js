@@ -15,7 +15,7 @@ const Hero = (props) => (
         <SectionText>
         My name is Santiago Serena, I am a developer and here you will know more about me.
         </SectionText>
-        <Button onClick={()=> window.location = 'https://drive.google.com/file/d/1X7_Qs-bkOtErcEtEuxDctXM04EsPr3h8/view?usp=sharing'}>Resume</Button>
+        <Button onClick={()=> window.location = 'https://drive.google.com/file/d/14g_EpKDdFHPp78DR2S5THtGN3Ng9JpjV/view?usp=drive_link'}>Resume</Button>
       </LeftSection>
     </Section>
   </>
