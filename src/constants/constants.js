@@ -25,9 +25,11 @@ export const projects = [
 ];
 
 export const TimeLineData = [
-  { year: "12/2021", text: "Started my journey as a developer" },
-  { year: "2/2022", text: "I started my studies at the Soy Henry Bootcamp" },
-  { year: "4/2022", text: "Finished the bootcamp program" },
-  { year: "5/2022", text: "Started the labs process in the bootcamp" },
-  { year: "7/2022", text: "I got my full stack developer degree" },
+  { year: "12/2021", text: "Started my journey as a developer." },
+  { year: "2/2022", text: "I started my studies at the Soy Henry Bootcamp." },
+  { year: "4/2022", text: "Finished the bootcamp program." },
+  { year: "5/2022", text: "Started the labs process in the bootcamp." },
+  { year: "7/2022", text: "I got my full stack developer degree." },
+  { year: "10/2022", text: "I joined Grupo Vectus as a software developer." },
+  { year: "1/2023", text: "I became a front-end developer at QPlus Software Solutions, where I am currently employed." },
 ];

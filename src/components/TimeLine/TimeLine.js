@@ -47,11 +47,8 @@ const Timeline = () => {
       <SectionTitle>About Me</SectionTitle>
       <br/>
       <SectionText>
-      I am a full stack web developer graduated from Henry, an intensive
-        bootcamp in Argentina. I am very curious and I really enjoy teamwork
-        too. I am attracted to new challenges and I have a lot of persistence
-        and dedication to achieve my goals.
-      </SectionText>
+      I am a web developer with a strong focus on front-end technologies and relevant work experience in the field. I graduated from Henry, an intensive bootcamp in Argentina. I am passionate about improving user experiences through clean, efficient design and enjoy working as part of a team. I am attracted to new challenges and bring persistence and dedication to achieving my goals. My curiosity drives me to constantly learn and explore new technologies.
+      </SectionText>  
       <br/><br/>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>
