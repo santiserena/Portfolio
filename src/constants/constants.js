@@ -12,9 +12,9 @@ export const projects = [
   },
 
   {
-    title: "Dog-Site",
+    title: "EntityBase",
     description:
-      " Dog-Site is a project developed for 'Soy Henry Bootcamp'. This website is a place where you can search and find different breeds of dogs, put them in a different order, add new ones and so on.",
+      " EntityBase is a project developed for 'Soy Henry Bootcamp'. This website is a place where you can search and find different breeds of dogs, put them in a different order, add new ones and so on.",
     image: "/images/dog-site.jpg",
     tags: ["React", "Redux", "Node", "Express", "Sequelize", "Base64"],
     source: "",
