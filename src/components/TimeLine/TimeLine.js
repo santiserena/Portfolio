@@ -47,8 +47,8 @@ const Timeline = () => {
       <SectionTitle>About Me</SectionTitle>
       <br/>
       <SectionText>
-      I am a web developer with a strong focus on front-end technologies and relevant work experience in the field. I graduated from Henry, an intensive bootcamp in Argentina. I am passionate about improving user experiences through clean, efficient design and enjoy working as part of a team. I am attracted to new challenges and bring persistence and dedication to achieving my goals. My curiosity drives me to constantly learn and explore new technologies.
-      </SectionText>  
+        I am a frontend-focused web developer with professional experience building web applications using technologies such as React, Vue and Node.js. I graduated from the Soy Henry bootcamp in Argentina and have since continued developing scalable and maintainable user interfaces in real-world projects. I enjoy solving problems, improving user experience and collaborating with teams to deliver reliable software solutions.
+      </SectionText> 
       <br/><br/>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>

@@ -11,7 +11,7 @@ const Technologies = () =>  (
     <SectionDivider divider />
     <SectionTitle>Technologies</SectionTitle>
     <SectionText>
-      I've worked  from client to server, with many technologies in the web development world,  some of them are:
+      I have experience working across both frontend and backend, using a variety of technologies in the web development ecosystem, including:
     </SectionText>
     <List>
 
@@ -61,7 +61,7 @@ const Technologies = () =>  (
         <ListContainer>
           <ListTitle>Back-End</ListTitle>
           <ListParagraph>
-            Node.Js <br/>
+            Node.js <br/>
             Express <br/>
             Sequelize
           </ListParagraph>

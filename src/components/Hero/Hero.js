@@ -9,8 +9,10 @@ const Hero = (props) => (
     <Section row nopadding>
       <LeftSection>
         <SectionTitle main center>
-          Welcome To <br />
-          My Personal Portfolio
+         Frontend Developer <br />
+Modern Web Applications
+          {/* Welcome To <br />
+          My Personal Portfolio */}
         </SectionTitle>
         <SectionText>
         My name is Santiago Serena, a frontend developer focused on building scalable web applications using modern JavaScript frameworks such as React and Vue. Here you can explore some of my projects and learn more about my work.
