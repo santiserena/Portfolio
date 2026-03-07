@@ -13,9 +13,9 @@ const Hero = (props) => (
           My Personal Portfolio
         </SectionTitle>
         <SectionText>
-        My name is Santiago Serena, I am a software developer and here you will know more about me.
+        My name is Santiago Serena, a frontend developer focused on building scalable web applications using modern JavaScript frameworks such as React and Vue. Here you can explore some of my projects and learn more about my work.
         </SectionText>
-        <Button onClick={()=> window.location = 'https://drive.google.com/file/d/1I0fG0tbnD2wDw5-MyIiVYDz1nxt6TD95/view?usp=sharing'}>Resume</Button>
+        <Button onClick={()=> window.location = 'https://drive.google.com/file/d/1IXjXiNilldKRnUeYU4KGmkzoTiEMyEZt/view?usp=drive_link'}>Resume</Button>
       </LeftSection>
     </Section>
   </>

@@ -2,7 +2,7 @@ export const projects = [
   {
     title: "Smartify",
     description:
-      "Smartify is an E-commerce dedicated to the sale of mobile phones. The website was developed as a team and has authentication, filters, permissions according to user type, image management, and so on.",
+      "Smartify is a full-stack e-commerce platform for mobile phone sales developed in a team environment. It includes user authentication, product filtering, role-based permissions, image management and an integrated shopping experience.",
     image: "/images/smartify.jpg",
     tags: ["React", "Express", "Node", "SQL", "Firebase", "Bootstrap"],
     source: "https://smartify.vercel.app/",
@@ -14,7 +14,7 @@ export const projects = [
   {
     title: "EntityBase",
     description:
-      " EntityBase is a project developed for 'Soy Henry Bootcamp'. This website is a place where you can search and find different breeds of dogs, put them in a different order, add new ones and so on.",
+      "EntityBase is a web application developed during the Soy Henry Bootcamp that allows users to search, filter and manage different dog breeds. It integrates an external API with a relational database and includes features for sorting, filtering and creating new entities.",
     image: "/images/dog-site.jpg",
     tags: ["React", "Redux", "Node", "Express", "Sequelize", "Base64"],
     source: "",
